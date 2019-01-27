@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "hello, again"
+echo "hello, SCM tester"
 echo "Printing the output of PWD"
 pwd
 echo "Printing the output of HOSTNAME"
